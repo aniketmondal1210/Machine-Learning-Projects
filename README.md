@@ -58,9 +58,9 @@ pip install -r requirements.txt
 5. 🚀 Running a Project
 
 Example for iPhone Price Predictor:
-
+```bash
 python iphone_price_predictor.py
-
+```
 Or open the .ipynb file in Jupyter Notebook for step-by-step execution.
 ## 📚 Learning Focus
 
