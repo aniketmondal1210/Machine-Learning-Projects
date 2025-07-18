@@ -65,9 +65,13 @@ Or open the .ipynb file in Jupyter Notebook for step-by-step execution.
 ## 📚 Learning Focus
 
 ✅ Data Preprocessing
+
 ✅ Model Training
+
 ✅ Data Visualization
+
 ✅ Evaluation Metrics
+
 ✅ Real-world datasets
 
 ## 🌱 Future Additions
