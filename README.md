@@ -70,7 +70,7 @@ Or open the .ipynb file in Jupyter Notebook for step-by-step execution.
 ✅ Evaluation Metrics
 ✅ Real-world datasets
 
-##🌱 Future Additions
+## 🌱 Future Additions
 
   Classification models (e.g., Iris, Titanic)
 
