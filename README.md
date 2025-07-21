@@ -28,6 +28,7 @@ _(You can expand this list as your project collection grows!)_
 - numpy
 - matplotlib
 - scikit-learn
+- OpenCV
 - Jupyter Notebook (optional)
 
 ---
@@ -37,7 +38,7 @@ _(You can expand this list as your project collection grows!)_
 1. Clone the repository:
 ```bash
 git clone https://github.com/yourusername/machine-learning-projects.git
-```
+
 
 2. Navigate to the folder:
 ```bash
@@ -72,7 +73,9 @@ Or open the .ipynb file in Jupyter Notebook for step-by-step execution.
 
 ✅ Evaluation Metrics
 
-✅ Real-world datasets
+✅ Real-world Datasets
+
+✅ Computer Vision Applications
 
 ## 🌱 Future Additions
 
