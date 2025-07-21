@@ -38,7 +38,7 @@ _(You can expand this list as your project collection grows!)_
 1. Clone the repository:
 ```bash
 git clone https://github.com/yourusername/machine-learning-projects.git
-
+```
 
 2. Navigate to the folder:
 ```bash
