@@ -13,7 +13,7 @@ Built using Python 🐍, pandas 🐼, scikit-learn 🎯, and matplotlib 📈.
 - **Tech Used:** pandas, matplotlib, scikit-learn
 - **Model:** Simple Linear Regression
 
-### 2. Automatic Selfie Capture
+### 2. 📷 Automatic Selfie Capture
 - **Goal:** Capture a selfie automatically when a smile is detected using webcam feed.
 - **Tech Used:** OpenCV, Haar Cascades, datetime
 - **Model:** Haar Cascade Classifiers for Face and Smile Detection
